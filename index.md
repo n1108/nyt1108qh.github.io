@@ -1,8 +1,5 @@
-## 这是一个大标题
-这是汉字
-这是错误的换行  
-这是正确的换行
-## 这是同级别的一个标题
-测试测试测试
-### 小标题
-14：57标记
+# Welcom to NYT's Page~
+## Do you want to know about me?
+
+## Below is my contact information.
+
