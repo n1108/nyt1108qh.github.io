@@ -1,5 +1,6 @@
 # Welcome to NYT's Page~
-## Do you want to know about me?
+## Do you want to know about me?  
+![图片alt]( "图片title")
 ### 基本信息
 来自：贵州  
 姓名：牛宇韬  
