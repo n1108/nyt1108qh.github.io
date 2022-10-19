@@ -1,5 +1,6 @@
 # Welcome to NYT's Page~  
-![图片alt](https://github.com/nyt1108qh/nyt1108qh.github.io/blob/4083910cd3098b7364627d2f80516ec5c97f4694/%E5%93%88.jpg "哈")
+<img align="center" width="300" src="https://github.com/nyt1108qh/nyt1108qh.github.io/blob/4083910cd3098b7364627d2f80516ec5c97f4694/%E5%93%88.jpg
+">                                                                                                               
 ## Do you want to know about me?  
 ### 基本信息
 来自：贵州  
