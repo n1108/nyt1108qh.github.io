@@ -10,5 +10,5 @@
 ### 性格特点
 幽默风趣，乐于助人
 ## Below is my contact information.
-QQ：1372341108  
-WeChat：nyt1108qh
+QQ：1372341108 ![图片alt]( "图片title")  
+WeChat：nyt1108qh ![图片alt]( "图片title")
