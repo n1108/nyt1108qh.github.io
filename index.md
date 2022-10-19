@@ -11,4 +11,4 @@
 ## Below is my contact information.
 QQ：1372341108 ![图片alt]( https://github.com/nyt1108qh/nyt1108qh.github.io/blob/ba1008798ae04ae2473e9c996ca014290210e89a/QQ%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg
 "图片title")  
-WeChat：nyt1108qh ![图片alt](https://github.com/nyt1108qh/nyt1108qh.github.io/blob/ba1008798ae04ae2473e9c996ca014290210e89a/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg "图片title")
+WeChat：nyt1108qh ![图片alt]( "图片title")
