@@ -1,6 +1,6 @@
 # Welcome to NYT's Page~
 ## Do you want to know about me?  
-![图片alt]( https://github.com/nyt1108qh/nyt1108qh.github.io/blob/103501f1f812bd8475413573c65e975b75a64139/%E5%93%88.jpg"图片title")
+![图片alt](https://github.com/nyt1108qh/nyt1108qh.github.io/blob/4083910cd3098b7364627d2f80516ec5c97f4694/%E5%93%88.jpg "图片title")
 ### 基本信息
 来自：贵州  
 姓名：牛宇韬  
